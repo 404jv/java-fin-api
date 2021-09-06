@@ -1,3 +1,6 @@
+# FIN API
+Uma "tradução" em Java desse [projeto](https://github.com/404jv/FIN-API) feito em Node.
+
 ## ✅ TO DO list
 
 **Requisitos**
